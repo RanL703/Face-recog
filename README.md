@@ -9,3 +9,5 @@ The below is the overall flow:
 4. Store in PostgreSQL in a vector column.
 5. Get another picture for reference and detect face.
 6. Caculate the embeddings here as well and use vector similarity to find other pictures.
+
+this repo contains working code for the blog post here https://aiven.io/developer/find-faces-with-pgvector
